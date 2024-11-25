@@ -12,7 +12,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/your-username/popup-button-widget.git"
+    "url": "git+https://github.com/Oleegg/mm-ai-widget.git"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
